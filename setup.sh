@@ -23,7 +23,7 @@ wget https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/Gnome-
 sudo apt install gconf2 -y
 zsh setup-theme.sh
 rm setup-theme.sh
-
+wget https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/vim/colors/Tomorrow-Night.vim
 # install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
